@@ -1,0 +1,22 @@
+{
+    "dealerId": 100,
+    "slotInfo": {
+        "slotDuration": 30,
+        "startTime": "13:00",
+        "endTime": "14:30",
+        "slots": [
+            {
+                "startTime": "13:00",
+                "endTime": "13:30"
+            },
+            {
+                "startTime": "13:30",
+                "endTime": "14:00"
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "14:30"
+            }
+        ]
+    }
+}

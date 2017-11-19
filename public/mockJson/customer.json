@@ -1,0 +1,140 @@
+{
+    "customer": {
+        "customerId": 1234,
+        "customerName": "John Smith",
+        "customerEmail": "jaganmohan.vegi@cdk.com",
+        "vin": "09218302948302948039",
+        "renewalDueDate": "2017-07-14T18:22:40.418Z",
+        "customerAddress": {
+            "street": "1601 Golf Terrace Dr",
+            "city": "Tallahassee",
+            "state": "Florida",
+            "zip": "32301",
+            "country": "USA"
+        },
+        "vehicleId": "4",
+        "vehicleMake": "x56",
+        "vehicleName": "MDX ADVANCE"
+    },
+    "bookedAppointment": {},
+    "dealersList": [
+        {
+            "dealerId": 100,
+            "dealerName": "Pride Honda",
+            "dealerAddress": {
+                "street": "1601 Golf Terrace Dr",
+                "city": "Tallahassee",
+                "state": "Florida",
+                "zip": "32301",
+                "country": "USA"
+            },
+            "slots": [
+                {
+                    "slotId": 123,
+                    "slotDate": "2017-07-14",
+                    "availableSlots": 4
+                },
+                {
+                    "slotId": 124,
+                    "slotDate": "2017-07-15",
+                    "availableSlots": 4
+                },
+                {
+                    "slotId": 125,
+                    "slotDate": "2017-07-16",
+                    "availableSlots": 0
+                },
+                {
+                    "slotId": 126,
+                    "slotDate": "2017-07-17",
+                    "availableSlots": 2
+                },
+                {
+                    "slotId": 128,
+                    "slotDate": "2017-07-16",
+                    "availableSlots": 0
+                },
+                {
+                    "slotId": 129,
+                    "slotDate": "2017-07-17",
+                    "availableSlots": 2
+                }
+            ]
+        },
+        {
+            "dealerId": 101,
+            "dealerName": "Pride Yamaha",
+            "dealerAddress": {
+                "street": "1601 Golf Terrace Dr",
+                "city": "Orange",
+                "state": "California",
+                "zip": "32301",
+                "country": "USA"
+            },
+            "slots": [
+                
+            ]
+        },
+        {
+            "dealerId": 102,
+            "dealerName": "Pride Suzuki",
+            "dealerAddress": {
+                "street": "1601 Golf Terrace Dr",
+                "city": "Chennai",
+                "state": "Tamil Nadu",
+                "zip": "600094",
+                "country": "India"
+            },
+            "slots": [
+                {
+                    "slotId": 123,
+                    "slotDate": "2017-07-14",
+                    "availableSlots": 6
+                },
+                {
+                    "slotId": 136,
+                    "slotDate": "2017-07-15",
+                    "availableSlots": 2
+                },
+                {
+                    "slotId": 138,
+                    "slotDate": "2017-07-17",
+                    "availableSlots": 2
+                }
+            ]
+        },
+        {
+            "dealerId": 103,
+            "dealerName": "Pride Bajaj",
+            "dealerAddress": {
+                "street": "1601 Golf Terrace Dr",
+                "city": "Tallahassee",
+                "state": "Florida",
+                "zip": "32301",
+                "country": "USA"
+            },
+            "slots": [
+                {
+                    "slotId": 123,
+                    "slotDate": "2017-07-14",
+                    "availableSlots": 4
+                },
+                {
+                    "slotId": 124,
+                    "slotDate": "2017-07-15",
+                    "availableSlots": 4
+                },
+                {
+                    "slotId": 125,
+                    "slotDate": "2017-07-16",
+                    "availableSlots": 0
+                },
+                {
+                    "slotId": 126,
+                    "slotDate": "2017-07-17",
+                    "availableSlots": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "dealer": {
+        "dealerId": 12345,
+        "dealerName": "Autonation",
+        "dealerAddress": {
+            "street": "1601 Golf Terrace Dr",
+            "city": "Orange",
+            "state": "California",
+            "zip": "32301",
+            "country": "USA"
+        }
+    },
+    "upcomingRenewals": [
+        {
+            "customerId": 123,
+            "customerName": "John Smith",
+            "vin": "09218302948302948089",
+            "make": "BMW",
+            "renewalDueDate": "2017-07-14T18:22:40.418Z"
+        },
+        {
+            "customerId": 124,
+            "customerName": "John Smith",
+            "vin": "09218301948302948039",
+            "make": "Ciaz",
+            "renewalDueDate": "2017-07-14T18:22:40.418Z"
+        }
+    ],
+    "registeredRenewals": [
+        {
+            "customerId": 125,
+            "customerName": "Mahesh Smith",
+            "vin": "09218302968302948039",
+            "make": "Audi",
+            "renewalDueDate": "2017-07-14T18:22:40.418Z",
+            "appointment": {
+                "appointmentDate": "2017-07-14T18:22:40.418Z",
+                "startTime": "13:00",
+                "endTime": "13:30"
+            }
+        },
+        {
+            "customerId": 126,
+            "customerName": "Surendra Smith",
+            "vin": "09218302948302943039",
+            "make": "Tesla",
+            "renewalDueDate": "2017-07-14T18:22:40.418Z",
+            "appointment": {
+                "appointmentDate": "2017-07-14T18:22:40.418Z",
+                "startTime": "13:30",
+                "endTime": "14:00"
+            }
+        }
+    ]
+}

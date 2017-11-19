@@ -1,0 +1,133 @@
+{
+    "dealerId": 100,
+    "dealerName": "Pride Honda",
+    "dealerAddress": {
+        "street": "1601 Golf Terrace Dr",
+        "city": "Tallahassee",
+        "state": "Florida",
+        "zip": "32301",
+        "country": "USA"
+    },
+    "customer": {
+        "customerId": 1234,
+        "customerName": "John Smith",
+        "vin": "09218302948302948039",
+        "make": "BMW",
+        "renewalDueDate": "2017-07-14T18:22:40.418Z",
+        "bookedSlotId":125
+    },
+    "slots": [
+        {
+            "slotId": 123,
+            "slotDate": "2017-07-14",
+            "isAvailable": true,
+            "slotStartTime": "09:00",
+            "slotEndTime": "09:30"
+        },
+        {
+            "slotId": 124,
+            "slotDate": "2017-07-14",
+            "isAvailable": true,
+            "slotStartTime": "10:00",
+            "slotEndTime": "10:30"
+        },
+        {
+            "slotId": 125,
+            "slotDate": "2017-07-14",
+            "isAvailable": true,
+            "slotStartTime": "10:30",
+            "slotEndTime": "11:00"
+        },
+        {
+            "slotId": 126,
+            "slotDate": "2017-07-14",
+            "isAvailable": true,
+            "slotStartTime": "11:00",
+            "slotEndTime": "11:30"
+        },
+        {
+            "slotId": 127,
+            "slotDate": "2017-07-15",
+            "isAvailable": false,
+            "slotStartTime": "09:00",
+            "slotEndTime": "09:30"
+        },
+        {
+            "slotId": 128,
+            "slotDate": "2017-07-15",
+            "isAvailable": false,
+            "slotStartTime": "10:00",
+            "slotEndTime": "10:30"
+        },
+        {
+            "slotId": 129,
+            "slotDate": "2017-07-15",
+            "isAvailable": true,
+            "slotStartTime": "10:30",
+            "slotEndTime": "11:00"
+        },
+        {
+            "slotId": 130,
+            "slotDate": "2017-07-15",
+            "isAvailable": true,
+            "slotStartTime": "11:00",
+            "slotEndTime": "11:30"
+        },
+        {
+            "slotId": 131,
+            "slotDate": "2017-07-16",
+            "isAvailable": true,
+            "slotStartTime": "09:00",
+            "slotEndTime": "09:30"
+        },
+        {
+            "slotId": 132,
+            "slotDate": "2017-07-16",
+            "isAvailable": false,
+            "slotStartTime": "10:00",
+            "slotEndTime": "10:30"
+        },
+        {
+            "slotId": 133,
+            "slotDate": "2017-07-17",
+            "isAvailable": true,
+            "slotStartTime": "10:30",
+            "slotEndTime": "11:00"
+        },
+        {
+            "slotId": 134,
+            "slotDate": "2017-07-17",
+            "isAvailable": true,
+            "slotStartTime": "11:00",
+            "slotEndTime": "11:30"
+        },
+        {
+            "slotId": 135,
+            "slotDate": "2017-07-17",
+            "isAvailable": true,
+            "slotStartTime": "09:00",
+            "slotEndTime": "09:30"
+        },
+        {
+            "slotId": 136,
+            "slotDate": "2017-07-17",
+            "isAvailable": true,
+            "slotStartTime": "10:00",
+            "slotEndTime": "10:30"
+        },
+        {
+            "slotId": 137,
+            "slotDate": "2017-07-20",
+            "isAvailable": true,
+            "slotStartTime": "10:30",
+            "slotEndTime": "11:00"
+        },
+        {
+            "slotId": 138,
+            "slotDate": "2017-07-19",
+            "isAvailable": true,
+            "slotStartTime": "11:00",
+            "slotEndTime": "11:30"
+        }
+    ]
+}
